@@ -7,7 +7,9 @@ I developed an advanced image classification system
 using transfer learning techniques to distinguish between six different scene categories.
 This work demonstrates my proficiency in deep learning, computer vision,
 and practical application of the latest machine learning models.
+
 <hr>
+
 ## Key Achievements
 
 -   Implemented transfer learning using four pre-trained models: ResNet50, ResNet100, EfficientNetB0, and VGG16
